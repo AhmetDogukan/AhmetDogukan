@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmetDogukan
-- 👀 I’m interested in c#,html,css,javascript,sql
--🌱 I’m currently learning html,css,javascript
+- 👀 I’m interested in c#,html,css,javascript,sql,python
+- 🌱 I’m currently learning html,css,javascript,python
 - 💞️ I’m looking to collaborate on in software
 - 📫
 
